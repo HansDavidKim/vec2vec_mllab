@@ -3,5 +3,6 @@ This code is originally from Cornell University and modified for training tokeni
 
 You can train the model with different options like below.
 ```markdown
+e.g)
 python train.py --toml unsupervised --dataset nq
 ```
